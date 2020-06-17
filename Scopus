@@ -1,0 +1,31 @@
+PROJECT NAME : IIPS_INT_2131_PREDICTING LIFE EXPECTANCY USING MACHINE LEARNING
+
+                  PROJECT SCOPE DOCUMENT
+1.PROJECT SUMMARY:
+  A Typical regression Machine Learning project leverages historical data to predict insights into the future. This problem statement
+  is aimed at predicting Life Expectancy rate of a country given various features.
+  
+  Life expectancy is a statistical measure of the average time a human heing is expected to live. Life expectancy depends on various
+  factors : Regional variations,Education,Year of their birth,Economic circumstances, Sex Differences, Mental Illness,Physical 
+  Illness and other demographic factors. This problem statement provides a way to predict average life expectancy of people living in a 
+  country when various factors such as year, GDP , education,alcohol intake of people in the country,expenditure on healthcare system and 
+  some specific disease related deths that happened in the country are given.
+  
+2.PROJECT REQUIREMENTS:
+    2.1: FUNCTIONAL REQUIREMENTS:
+      Predicting the life expectancy rate of a country.
+      Creating the data model present on the database.
+      Merge the model to the edge devices.
+    2.2 TECHINICAL REQUIREMENTS: 
+    Python,IBM Cloud,IBM Watson.
+    2.3 HARDWARE REQUIREMENTS:
+    Processor : i3 7th gen or higher
+    Speed : 2Ghz or more
+    HardDisk space : 10gb or more
+    
+3. PROJECT DELIVERABLES: 
+    Once the model is refined, model conversion takes place. It is a step that is required when developing models that are to be used 
+    within edge devices such as mobile phones or IoT devices. A node red application will be developed for this model.
+    
+
+    
